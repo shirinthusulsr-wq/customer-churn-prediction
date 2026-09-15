@@ -1,5 +1,9 @@
 # Customer Churn Prediction & Retention Analytics
+## Live Application
 
+**[Launch the Customer Churn Predictor](https://shirin-thusu-churnanalytics.streamlit.app/)**
+
+Use the interactive application to enter customer characteristics, estimate churn probability, classify customer risk, and determine retention priority.
 An end-to-end machine learning project that predicts customer churn and translates predictions into actionable customer retention priorities using Customer Lifetime Value (CLTV).
 
 ## Business Problem
